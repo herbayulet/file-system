@@ -1,0 +1,12 @@
+[
+  {
+    "todo": "saya akan memasak",
+    "complete": true,
+    "tag": ""
+  },
+  {
+    "todo": "saya pergi ke sekolah",
+    "complete": false,
+    "tag": ""
+  }
+]
